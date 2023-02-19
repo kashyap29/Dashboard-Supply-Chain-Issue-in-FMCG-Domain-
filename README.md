@@ -29,3 +29,5 @@ The Supply Chain team decided to use a standard approach to measure the service 
 - Text Extraction using the M Language with Power BI (extracting the last 3 lines and removing numbers from text)
   Supply Chain Domain knowledge
 
+# Portfolio Link :
+https://www.novypro.com/project/kashyap-shani
